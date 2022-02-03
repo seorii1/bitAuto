@@ -1,2 +1,0 @@
-# bitAuto
-trade
